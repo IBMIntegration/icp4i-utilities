@@ -2,6 +2,9 @@
 
 ## Build Dockerfile
 
+1. Create a file called dockerfile.
+2. Copy the contents below into the dockerfile.
+
 ```
 # Load mq docker image from local openshift repository
 
